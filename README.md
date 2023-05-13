@@ -10,9 +10,9 @@ Look at [pnpm docs](https://pnpm.io/installation) on how to install.
 
 ## Tasks
 
-- Fix turborepo for deployment
 - Setup trpc server & client
-- Setup docker compose for Redis stream
+- Setup docker compose
+- Fix turborepo for deployment
 - Setup deployment to GCP
 
 ## What's inside?
